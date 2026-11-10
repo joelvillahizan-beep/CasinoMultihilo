@@ -1,0 +1,1 @@
+<component name="ProjectRunConfigurationManager"><configuration default="false" name="Casino Demo (3 turnos)" type="Application" factoryName="Application"><option name="MAIN_CLASS_NAME" value="casino.Principal"/><module name="CasinoMultihilo"/><option name="PROGRAM_PARAMETERS" value="3"/><method v="2"><option name="Make" enabled="true"/></method></configuration></component>
